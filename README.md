@@ -1,7 +1,5 @@
 # Test completed
 
-I completed the hiring test in this repository.
-
 Summary:
 
 - Implementation: added upcoming movie listing, search for movies, movie details screens, and trailer playback.
